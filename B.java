@@ -1,7 +1,7 @@
 package Practice1;
 
 public class B {
-	public static void add() {
+	public void add() {
 		int a=5;
 		int b=7;
 		int sum=a+b;
